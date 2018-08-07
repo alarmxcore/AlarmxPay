@@ -81,27 +81,27 @@ angular.module('copayApp.controllers').controller('walletDetailsController', fun
         if($scope.status) {
           // Available Balance
           if($scope.status.availableBalanceStr) {
-            $scope.status.availableBalanceStr = $scope.status.availableBalanceStr.replace('btc','INN');
+            $scope.status.availableBalanceStr = $scope.status.availableBalanceStr.replace('btc','ALRMX');
           }
 
           // Total Balance
           if($scope.status.totalBalanceStr) {
-            $scope.status.totalBalanceStr = $scope.status.totalBalanceStr.replace('btc','INN');
+            $scope.status.totalBalanceStr = $scope.status.totalBalanceStr.replace('btc','ALRMX');
           }
 
           // Locked Balance
           if($scope.status.lockedBalanceStr) {
-            $scope.status.lockedBalanceStr = $scope.status.lockedBalanceStr.replace('btc','INN');
+            $scope.status.lockedBalanceStr = $scope.status.lockedBalanceStr.replace('btc','ALRMX');
           }
 
           // Pending Balance
           if($scope.status.pendingBalanceStr) {
-            $scope.status.pendingBalanceStr = $scope.status.pendingBalanceStr.replace('btc','INN');
+            $scope.status.pendingBalanceStr = $scope.status.pendingBalanceStr.replace('btc','ALRMX');
           }
 
           // Spendable Balance
           if($scope.status.spendableBalanceStr) {
-            $scope.status.spendableBalanceStr = $scope.status.spendableBalanceStr.replace('btc','INN');
+            $scope.status.spendableBalanceStr = $scope.status.spendableBalanceStr.replace('btc','ALRMX');
           }
         }
       }
@@ -220,7 +220,7 @@ angular.module('copayApp.controllers').controller('walletDetailsController', fun
       $scope.txHistory = $scope.completeTxHistory.slice(0, (currentTxHistoryPage + 1) * HISTORY_SHOW_LIMIT);
       $scope.txHistoryShowMore = $scope.completeTxHistory.length > $scope.txHistory.length;
       for(var i = 0 ; i < $scope.txHistory.length; i++) {
-        $scope.txHistory[i].amountStr = $scope.txHistory[i].amountStr.replace('btc','INN');
+        $scope.txHistory[i].amountStr = $scope.txHistory[i].amountStr.replace('btc','ALRMX');
       }
     }
   };
@@ -389,7 +389,7 @@ angular.module('copayApp.controllers').controller('walletDetailsController', fun
       $scope.status = null;
     } else {
       $scope.status = $scope.wallet.cachedStatus;
-      $scope.status.totalBalanceStr = $scope.status.totalBalanceStr.replace('btc','INN');
+      $scope.status.totalBalanceStr = $scope.status.totalBalanceStr.replace('btc','ALRMX');
 
       if ($scope.wallet.completeHistory) {
         $scope.completeTxHistory = $scope.wallet.completeHistory;

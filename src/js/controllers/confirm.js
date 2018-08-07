@@ -415,20 +415,20 @@ angular.module('copayApp.controllers').controller('confirmController', function(
       var warningMsg = [];
       if (sendMaxInfo.utxosBelowFee > 0) {
         warningMsg.push(gettextCatalog.getString("A total of {{amountBelowFeeStr}} were excluded. These funds come from UTXOs smaller than the network fee provided.", {
-          amountBelowFeeStr: txFormatService.formatAmountStr(wallet.coin, sendMaxInfo.amountBelowFee).replace('btc','INN')
+          amountBelowFeeStr: txFormatService.formatAmountStr(wallet.coin, sendMaxInfo.amountBelowFee).replace('btc','ALRMX')
         }));
       }
 
       if (sendMaxInfo.utxosAboveMaxSize > 0) {
         warningMsg.push(gettextCatalog.getString("A total of {{amountAboveMaxSizeStr}} were excluded. The maximum size allowed for a transaction was exceeded.", {
-          amountAboveMaxSizeStr: txFormatService.formatAmountStr(wallet.coin, sendMaxInfo.amountAboveMaxSize).replace('btc','INN')
+          amountAboveMaxSizeStr: txFormatService.formatAmountStr(wallet.coin, sendMaxInfo.amountAboveMaxSize).replace('btc','ALRMX')
         }));
       }
       return warningMsg.join('\n');
     };
 
     var msg = gettextCatalog.getString("{{fee}} will be deducted for alarmx networking fees.", {
-      fee: txFormatService.formatAmountStr(wallet.coin, sendMaxInfo.fee).replace('btc','INN')
+      fee: txFormatService.formatAmountStr(wallet.coin, sendMaxInfo.fee).replace('btc','ALRMX')
     });
     var warningMsg = verifyExcludedUtxos();
 
@@ -565,7 +565,7 @@ angular.module('copayApp.controllers').controller('confirmController', function(
           return cb();
 
         var message = gettextCatalog.getString('Sending {{amountStr}} from your {{name}} wallet', {
-          amountStr: tx.amountStr.replace('btc','INN'),
+          amountStr: tx.amountStr.replace('btc','ALRMX'),
           name: wallet.name
         });
         var okText = gettextCatalog.getString('Confirm');

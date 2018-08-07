@@ -138,10 +138,10 @@ angular.module('copayApp.controllers').controller('txDetailsController', functio
         if ($scope.btx.action == 'moved') $scope.title = gettextCatalog.getString('Moved Funds');
       }
 
-        $scope.btx.amountStr = $scope.btx.amountStr.replace('btc','INN');
+        $scope.btx.amountStr = $scope.btx.amountStr.replace('btc','ALRMX');
         $scope.btx.amountValueStr = $scope.btx.amountStr.split(" ")[0];
         $scope.btx.amountUnitStr = $scope.btx.amountStr.split(" ")[1];
-        $scope.btx.feeStr = $scope.btx.feeStr.replace('btc','INN');
+        $scope.btx.feeStr = $scope.btx.feeStr.replace('btc','ALRMX');
 
       updateMemo();
       initActionList();
@@ -231,13 +231,13 @@ angular.module('copayApp.controllers').controller('txDetailsController', functio
 			var data = response.data;
 
 			for (var i = 0; i < data.length; i++){
-			  if (data[i].Market == "INN/BTC"){
+			  if (data[i].Market == "ALRMX/BTC"){
 				$scope.rateDIN = parseFloat(data[i].Last) * res.rate;
 			  }
 			}
 		}
 		,function (err) {
-			$log.debug('Could not get historic INN rate');
+			$log.debug('Could not get historic ALRMX rate');
 			conosle.log(err);
 		});
 	  }

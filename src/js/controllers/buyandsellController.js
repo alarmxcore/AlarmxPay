@@ -11,7 +11,7 @@ angular.module('copayApp.controllers').controller('buyandsellController', functi
     $scope.services = [
 
       {
-        url : 'https://www.cryptopia.co.nz/Exchange/?market=INN_BTC',
+        url : 'https://www.cryptopia.co.nz/Exchange/?market=ALRMX_BTC',
         caption : 'Cryptopia'
       },
     ]

@@ -38,7 +38,7 @@ angular.module('copayApp.controllers').controller('customAmountController', func
       // Amount in USD or BTC
       var amount = parsedAmount.amount;
       var currency = parsedAmount.currency;
-      $scope.amountUnitStr = parsedAmount.amountUnitStr.replace('btc','INN');
+      $scope.amountUnitStr = parsedAmount.amountUnitStr.replace('btc','ALRMX');
 
       if (currency != 'BTC' && currency != 'BCH') {
         // Convert to BTC or BCH
