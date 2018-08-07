@@ -1,28 +1,27 @@
 {
   "project_info": {
-    "project_number": "149194066736",
-    "firebase_url": "https://bitpay-wallet.firebaseio.com",
-    "project_id": "bitpay-wallet",
-    "storage_bucket": "bitpay-wallet.appspot.com"
+    "project_number": "98274424957",
+    "firebase_url": "https://alarmx -ebce5.firebaseio.com",
+    "project_id": "alarmx -ebce5",
+    "storage_bucket": "alarmx -ebce5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:149194066736:android:6de8942b48fea047",
+        "mobilesdk_app_id": "1:98274424957:android:13e8540525765b33",
         "android_client_info": {
-          "package_name": "com.bitpay.copay"
+          "package_name": "com.alarmx .copay"
         }
       },
       "oauth_client": [
         {
-          "client_id":
-            "149194066736-1gf0d9nk288dke5jdiuj8unkplhl8nco.apps.googleusercontent.com",
+          "client_id": "98274424957-39u44gsivkvfuaesv5tvb7vhrtbcomn5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCZ8nyjRBe-0Lyur0LjO-SOkjv32uNQKy0"
+          "current_key": "AIzaSyBSuZBxImiElwZUuLZ8vitAccGJTcg2XB0"
         }
       ],
       "services": {
