@@ -229,7 +229,7 @@ msgid "An update to this app is available. For your security, please update to t
 msgstr "本程序有一个可用的更新。为了您的安全，请更新到最新版本。"
 
 #: www/views/backupWarning.html:14
-msgid "Anyone with your backup phrase can access or spend your alarmx ."
+msgid "Anyone with your backup phrase can access or spend your alarmx."
 msgstr "任何人只要持有你的备份短语，就可以访问或者花掉你的比特币。"
 
 #: www/views/addresses.html:94
@@ -241,7 +241,7 @@ msgid "Are you being watched?"
 msgstr "你正在被监视吗？"
 
 #: src/js/controllers/preferencesExternal.js:15
-msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx ."
+msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx."
 msgstr "请确认目前没有人在监视你的屏幕！因为只要有人知道了你的恢复短语，他就拥有你的比特币完全访问权限，甚至可以直接用于消费！"
 
 #: src/js/controllers/copayers.js:56
@@ -1634,7 +1634,7 @@ msgid "Is this email address correct?"
 msgstr "此电子邮件地址是正确的？"
 
 #: www/views/addresses.html:25
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmx s secure against hypothetical attacks by quantum computers."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmxs secure against hypothetical attacks by quantum computers."
 msgstr "它是一个好主意，以避免重用地址 — — 这既能保护您的隐私又保持您的比特币安全假设攻击由量子计算机。"
 
 #: src/js/controllers/backup.js:76
@@ -1850,7 +1850,7 @@ msgid "No access key defined"
 msgstr "授权密钥未定义"
 
 #: www/views/onboarding/backupRequest.html:5
-msgid "No backup, no alarmx ."
+msgid "No backup, no alarmx."
 msgstr "没有备份，没有比特币。"
 
 #: www/views/addressbook.html:19
@@ -1952,7 +1952,7 @@ msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the
 msgstr "注意: 如此比特幣錢包由小比特幣复制，他們共享相同恢復短語"
 
 #: www/views/modals/wallets.html:25
-msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx "
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx"
 msgstr "注意︰ 只有 1-1 （单签名） 钱包可以用于卖比特币"
 
 #: www/views/preferencesNotifications.html:3
@@ -2765,7 +2765,7 @@ msgid "Spending this balance will need significant Alarmx network fees"
 msgstr "这笔交易将需要非常高的比特币网络手续费"
 
 #: www/views/tab-send.html:33
-msgid "Start sending alarmx "
+msgid "Start sending alarmx"
 msgstr "开始发送比特币"
 
 #: www/views/lockSetup.html:3
@@ -2803,7 +2803,7 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "此操作无法撤消"
 
 #: www/views/onboarding/welcome.html:5
-msgid "Take control of your money,<br>get started with alarmx ."
+msgid "Take control of your money,<br>get started with alarmx."
 msgstr "把你的钱，<br>得到控制开始用比特币。"
 
 #: www/views/walletDetails.html:132
@@ -3002,7 +3002,7 @@ msgid "To get started, buy alarmx or share your address. You can receive alarmx 
 msgstr "若要开始，请买比特币或共享您的地址。你可以从任何钱包或服务接收比特币。"
 
 #: www/views/tab-send.html:38
-msgid "To get started, you'll need to create a alarmx wallet and get some alarmx ."
+msgid "To get started, you'll need to create a alarmx wallet and get some alarmx."
 msgstr "若要开始，您将需要创建一个比特币的钱包，并获得一些比特币。"
 
 #: src/js/services/bitpayAccountService.js:73
@@ -3477,7 +3477,7 @@ msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
 msgstr "你可以换其他货币，如美元、 欧元或英镑。"
 
 #: www/views/onboarding/tour.html:46
-msgid "You control your alarmx ."
+msgid "You control your alarmx."
 msgstr "您可以控制您的比特币。"
 
 #: www/views/modals/chooseFeeLevel.html:64

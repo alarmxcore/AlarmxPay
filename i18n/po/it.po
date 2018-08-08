@@ -183,7 +183,7 @@ msgstr "Tutto il bilancio del tuo portafoglio potrebbe non essere disponibile ad
 
 #: www/views/tab-receive.html:25
 msgid "All signing devices must be added to this multisig wallet before alarmx addresses can be created."
-msgstr "Tutti i dispositivi firmanti devono essere aggiunti a questo portafoglio multisig prima che si possano creare indirizzi alarmx ."
+msgstr "Tutti i dispositivi firmanti devono essere aggiunti a questo portafoglio multisig prima che si possano creare indirizzi alarmx."
 
 #: www/views/tab-scan.html:21
 msgid "Allow Camera Access"
@@ -229,8 +229,8 @@ msgid "An update to this app is available. For your security, please update to t
 msgstr "Un aggiornamento dell'app è disponibile. Per la tua sicurezza è consigliato aggiornare all'ultima versione."
 
 #: www/views/backupWarning.html:14
-msgid "Anyone with your backup phrase can access or spend your alarmx ."
-msgstr "Qualcuno con la tua frase di recupero potrebbe avere accesso o spendere i tuoi alarmx ."
+msgid "Anyone with your backup phrase can access or spend your alarmx."
+msgstr "Qualcuno con la tua frase di recupero potrebbe avere accesso o spendere i tuoi alarmx."
 
 #: www/views/addresses.html:94
 msgid "Approximate Alarmx network fee to transfer wallet's balance (with normal priority)"
@@ -241,8 +241,8 @@ msgid "Are you being watched?"
 msgstr "Sei osservato?"
 
 #: src/js/controllers/preferencesExternal.js:15
-msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx ."
-msgstr "Siete osservati? Chiunque con la vostra frase di recupero può accedere o spendere i vostri alarmx ."
+msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx."
+msgstr "Siete osservati? Chiunque con la vostra frase di recupero può accedere o spendere i vostri alarmx."
 
 #: src/js/controllers/copayers.js:56
 msgid "Are you sure you want to cancel and delete this wallet?"
@@ -814,7 +814,7 @@ msgstr "Creare portafoglio condiviso"
 #: www/views/tab-home.html:89
 #: www/views/tab-send.html:41
 msgid "Create alarmx wallet"
-msgstr "Creare portafoglio alarmx "
+msgstr "Creare portafoglio alarmx"
 
 #: www/views/tab-create-personal.html:131
 msgid "Create new wallet"
@@ -1634,7 +1634,7 @@ msgid "Is this email address correct?"
 msgstr "Questo indirizzo email è corretto?"
 
 #: www/views/addresses.html:25
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmx s secure against hypothetical attacks by quantum computers."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmxs secure against hypothetical attacks by quantum computers."
 msgstr "È una buona idea evitare di riutilizzare gli indirizzi - questo protegge la tua privacy e mantiene i Alarmx al sicuro da ipotetici attacchi di computer quantistici."
 
 #: src/js/controllers/backup.js:76
@@ -1850,8 +1850,8 @@ msgid "No access key defined"
 msgstr "Nessuna chiave di accesso definita"
 
 #: www/views/onboarding/backupRequest.html:5
-msgid "No backup, no alarmx ."
-msgstr "Nessun backup, nessun alarmx ."
+msgid "No backup, no alarmx."
+msgstr "Nessun backup, nessun alarmx."
 
 #: www/views/addressbook.html:19
 msgid "No contacts yet"
@@ -1952,8 +1952,8 @@ msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the
 msgstr "Nota: se questo portafoglio BCH è stato duplicato da un portafoglio BTC, condividono la stessa frase di recupero."
 
 #: www/views/modals/wallets.html:25
-msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx "
-msgstr "Avviso: solo i portafogli 1-1 (con singola firma) possono essere utilizzati per vendere alarmx "
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx"
+msgstr "Avviso: solo i portafogli 1-1 (con singola firma) possono essere utilizzati per vendere alarmx"
 
 #: www/views/preferencesNotifications.html:3
 #: www/views/tab-settings.html:54
@@ -2508,7 +2508,7 @@ msgstr "Cerca Transazioni"
 
 #: www/views/tab-send.html:18
 msgid "Search or enter alarmx address"
-msgstr "Cerca o inserisci indirizzo alarmx "
+msgstr "Cerca o inserisci indirizzo alarmx"
 
 #: www/views/modals/search.html:16
 msgid "Search transactions"
@@ -2693,7 +2693,7 @@ msgstr "Mostra opzioni avanzate"
 
 #: www/views/tab-send.html:42
 msgid "Show alarmx address"
-msgstr "Visualizza indirizzo alarmx "
+msgstr "Visualizza indirizzo alarmx"
 
 #: www/views/tab-send.html:64
 msgid "Show more"
@@ -2765,8 +2765,8 @@ msgid "Spending this balance will need significant Alarmx network fees"
 msgstr "Per spendere questa quantità saranno necessarie significative commissioni di rete Alarmx"
 
 #: www/views/tab-send.html:33
-msgid "Start sending alarmx "
-msgstr "Iniziare a inviare alarmx "
+msgid "Start sending alarmx"
+msgstr "Iniziare a inviare alarmx"
 
 #: www/views/lockSetup.html:3
 msgid "Startup Lock"
@@ -2803,8 +2803,8 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "QUESTA AZIONE NON PUÒ ESSERE INVERTITA"
 
 #: www/views/onboarding/welcome.html:5
-msgid "Take control of your money,<br>get started with alarmx ."
-msgstr "Prendi il controllo del tuo denaro, <br>inizia con alarmx ."
+msgid "Take control of your money,<br>get started with alarmx."
+msgstr "Prendi il controllo del tuo denaro, <br>inizia con alarmx."
 
 #: www/views/walletDetails.html:132
 #: www/views/walletDetails.html:52
@@ -3002,7 +3002,7 @@ msgid "To get started, buy alarmx or share your address. You can receive alarmx 
 msgstr "Per iniziare, acquista alarmx o condividi il tuo indirizzo. È possibile ricevere alarmx da qualsiasi servizio o portafoglio."
 
 #: www/views/tab-send.html:38
-msgid "To get started, you'll need to create a alarmx wallet and get some alarmx ."
+msgid "To get started, you'll need to create a alarmx wallet and get some alarmx."
 msgstr "Per iniziare, è necessario che tu crei un portafoglio alarmx e ottenerne qualcuno."
 
 #: src/js/services/bitpayAccountService.js:73
@@ -3205,7 +3205,7 @@ msgstr "ATTENZIONE: CERTIFICATO NON ATTENDIBILE"
 
 #: www/views/preferencesPrivateKey.html:14
 msgid "WARNING: Your extended private keys are all that is needed to access your alarmx funds. Be sure to protect your private keys and store them only on secure devices. Alarmx Dev does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr "ATTENZIONE: Le chiavi private estese sono tutto ciò che è necessario per accedere ai tuoi fondi alarmx . Assicuratevi di proteggere le chiavi private e memorizzarle solo su dispositivi sicuri. Alarmx Dev non ha accesso alla vostre chiavi private, quindi sei l'unico responsabile per le tue chiavi. Se si condivide la tua chiave di accesso con servizi esterni, ti assumi la responsabilità per il rischio di furto o di violazione. Solo gli utenti esperti dovrebbero gestire direttamente le chiavi estese private."
+msgstr "ATTENZIONE: Le chiavi private estese sono tutto ciò che è necessario per accedere ai tuoi fondi alarmx. Assicuratevi di proteggere le chiavi private e memorizzarle solo su dispositivi sicuri. Alarmx Dev non ha accesso alla vostre chiavi private, quindi sei l'unico responsabile per le tue chiavi. Se si condivide la tua chiave di accesso con servizi esterni, ti assumi la responsabilità per il rischio di furto o di violazione. Solo gli utenti esperti dovrebbero gestire direttamente le chiavi estese private."
 
 #: src/js/services/onGoingProcess.js:15
 msgid "Waiting for Ledger..."
@@ -3458,7 +3458,7 @@ msgstr "È possibile contribuire registrandovi sulla comunità di traduzione Cro
 
 #: www/views/tab-scan.html:16
 msgid "You can scan alarmx addresses, payment requests, paper wallets, and more."
-msgstr "È possibile scansionare indirizzi alarmx , richieste di pagamento, portafogli di carta e altro ancora."
+msgstr "È possibile scansionare indirizzi alarmx, richieste di pagamento, portafogli di carta e altro ancora."
 
 #: src/js/controllers/preferencesAbout.js:14
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
@@ -3477,8 +3477,8 @@ msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
 msgstr "È possibile scambiarlo con altre valute come i dollari USA, Euro o Sterline."
 
 #: www/views/onboarding/tour.html:46
-msgid "You control your alarmx ."
-msgstr "Controlli i tuoi alarmx ."
+msgid "You control your alarmx."
+msgstr "Controlli i tuoi alarmx."
 
 #: www/views/modals/chooseFeeLevel.html:64
 msgid "You should not set a fee higher than {{maxFeeRecommended}} satoshis/byte."

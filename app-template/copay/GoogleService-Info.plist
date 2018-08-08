@@ -17,11 +17,11 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.alarmx .copay</string>
+	<string>com.alarmx.copay</string>
 	<key>PROJECT_ID</key>
-	<string>alarmx -ebce5</string>
+	<string>alarmx-ebce5</string>
 	<key>STORAGE_BUCKET</key>
-	<string>alarmx -ebce5.appspot.com</string>
+	<string>alarmx-ebce5.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -35,6 +35,6 @@
 	<key>GOOGLE_APP_ID</key>
 	<string>1:98274424957:ios:13e8540525765b33</string>
 	<key>DATABASE_URL</key>
-	<string>https://alarmx -ebce5.firebaseio.com</string>
+	<string>https://alarmx-ebce5.firebaseio.com</string>
 </dict>
 </plist>

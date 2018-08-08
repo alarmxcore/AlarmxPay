@@ -220,7 +220,7 @@ msgid "An update to this app is available. For your security, please update to t
 msgstr ""
 
 #: www/views/backupWarning.html:14
-msgid "Anyone with your backup phrase can access or spend your alarmx ."
+msgid "Anyone with your backup phrase can access or spend your alarmx."
 msgstr ""
 
 #: www/views/addresses.html:94
@@ -232,7 +232,7 @@ msgid "Are you being watched?"
 msgstr ""
 
 #: src/js/controllers/preferencesExternal.js:15
-msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx ."
+msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx."
 msgstr ""
 
 #: src/js/controllers/copayers.js:56
@@ -1625,7 +1625,7 @@ msgid "Is this email address correct?"
 msgstr ""
 
 #: www/views/addresses.html:25
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmx s secure against hypothetical attacks by quantum computers."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmxs secure against hypothetical attacks by quantum computers."
 msgstr ""
 
 #: src/js/controllers/backup.js:76
@@ -1841,7 +1841,7 @@ msgid "No access key defined"
 msgstr ""
 
 #: www/views/onboarding/backupRequest.html:5
-msgid "No backup, no alarmx ."
+msgid "No backup, no alarmx."
 msgstr ""
 
 #: www/views/addressbook.html:19
@@ -1943,7 +1943,7 @@ msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the
 msgstr ""
 
 #: www/views/modals/wallets.html:25
-msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx "
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx"
 msgstr ""
 
 #: www/views/preferencesNotifications.html:3
@@ -2756,7 +2756,7 @@ msgid "Spending this balance will need significant Alarmx network fees"
 msgstr ""
 
 #: www/views/tab-send.html:33
-msgid "Start sending alarmx "
+msgid "Start sending alarmx"
 msgstr ""
 
 #: www/views/lockSetup.html:3
@@ -2794,7 +2794,7 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr ""
 
 #: www/views/onboarding/welcome.html:5
-msgid "Take control of your money,<br>get started with alarmx ."
+msgid "Take control of your money,<br>get started with alarmx."
 msgstr ""
 
 #: www/views/walletDetails.html:132
@@ -2993,7 +2993,7 @@ msgid "To get started, buy alarmx or share your address. You can receive alarmx 
 msgstr ""
 
 #: www/views/tab-send.html:38
-msgid "To get started, you'll need to create a alarmx wallet and get some alarmx ."
+msgid "To get started, you'll need to create a alarmx wallet and get some alarmx."
 msgstr ""
 
 #: src/js/services/bitpayAccountService.js:73
@@ -3468,7 +3468,7 @@ msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
 msgstr ""
 
 #: www/views/onboarding/tour.html:46
-msgid "You control your alarmx ."
+msgid "You control your alarmx."
 msgstr ""
 
 #: www/views/modals/chooseFeeLevel.html:64

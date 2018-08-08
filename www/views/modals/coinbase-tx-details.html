@@ -23,12 +23,12 @@
         <span ng-show="tx.type == 'sell'">Sold</span>
       </div>
       <div ng-show="tx.type == 'send' && (tx.to || tx.from) && tx.status != 'completed'">
-        <span ng-show="tx.to">Receiving purchased alarmx </span>
+        <span ng-show="tx.to">Receiving purchased alarmx</span>
         <span ng-show="tx.from">Sending alarmx to sell</span>
       </div>
       <div ng-show="(tx.type == 'sell' || tx.type == 'buy') && tx.status != 'completed'">
-        <span ng-show="tx.type == 'buy'">Buying alarmx </span>
-        <span ng-show="tx.type == 'sell'">Selling alarmx </span>
+        <span ng-show="tx.type == 'buy'">Buying alarmx</span>
+        <span ng-show="tx.type == 'sell'">Selling alarmx</span>
       </div>
       <div class="size-24 text-bold">
         <span ng-if="tx.type == 'sell' || (tx.type == 'send' && tx.from)">-</span>{{tx.amount.amount.replace('-','')}}

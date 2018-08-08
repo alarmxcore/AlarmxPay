@@ -18,7 +18,7 @@ angular.module('copayApp.services').service('configService', function(storageSer
     },
 
     download: {
-      alarmx : {
+      alarmx: {
         url: 'https://github.com/alarmxcore/copay-alarmx/releases/latest'
       }
     },

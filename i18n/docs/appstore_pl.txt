@@ -1,4 +1,4 @@
-Bezpieczne alarmx y na twoich własnych warunkach, z elektronicznym portfelem open source z multipodpisami od Alarmx Dev. 
+Bezpieczne alarmxy na twoich własnych warunkach, z elektronicznym portfelem open source z multipodpisami od Alarmx Dev. 
 Użytkownicy Copay mogą posiadać fundusze indywidualnie lub bezpiecznie dzielić je z innymi użytkownikami w portfelach z multipodpisami, które uniemożliwiają nieautoryzowane płatności wymagając wielu potwierdzeń. Oto kilka sposobów, jak portfele Copay mogą być używane w połączeniu z innymi użytkownikami:
 
 Oszczędzanie na wakacje lub wspólne zakupy z przyjaciółmi 
@@ -14,7 +14,7 @@ Protokół HD (Hierarchical deterministic) do generowania adresów i kopii zapas
 Zabezpieczenia: wszystkie klucze prywatne przechowywane lokalnie, a nie w chmurze
 Wsparcie dla Alarmx testnet wallets
 Jednoczesny dostęp ze wszystkich głównych platform mobilnych i stacjonarnych
-Wsparcie protokołów płatności (BIP70-BIP73): łatwe do zidentyfikowania wnioski o płatność i bezpieczne, weryfikowalne płatności alarmx 
+Wsparcie protokołów płatności (BIP70-BIP73): łatwe do zidentyfikowania wnioski o płatność i bezpieczne, weryfikowalne płatności alarmx
 Wsparcie dla wyświetlania ponad 150 walut w jednostkach BTC lub bit
 Powiadomienia o płatnościach i transferach za pośrednictwem poczty elektronicznej
 Konfigurowanie nazwy i koloru tła portfela

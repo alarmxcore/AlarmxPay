@@ -229,7 +229,7 @@ msgid "An update to this app is available. For your security, please update to t
 msgstr "このアプリのアップデートがあります。セキュリティーを保持するために最新版にアップデートして下さい。"
 
 #: www/views/backupWarning.html:14
-msgid "Anyone with your backup phrase can access or spend your alarmx ."
+msgid "Anyone with your backup phrase can access or spend your alarmx."
 msgstr "復元フレーズを知る者はあなたのビットコインが勝手に送れてしまいます。"
 
 #: www/views/addresses.html:94
@@ -241,7 +241,7 @@ msgid "Are you being watched?"
 msgstr "見られていませんか？"
 
 #: src/js/controllers/preferencesExternal.js:15
-msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx ."
+msgid "Are you being watched? Anyone with your recovery phrase can access or spend your alarmx."
 msgstr "見られていますか？ 復元フレーズを知る者はあなたのビットコインが勝手に送れてしまいます。"
 
 #: src/js/controllers/copayers.js:56
@@ -1636,7 +1636,7 @@ msgid "Is this email address correct?"
 msgstr "このメールアドレスで宜しいですか？"
 
 #: www/views/addresses.html:25
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmx s secure against hypothetical attacks by quantum computers."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your alarmxs secure against hypothetical attacks by quantum computers."
 msgstr "アドレスの再利用は避けましょう。これはプライバシーを守ることももちろんのこと、将来的にあり得るかもしれない量子コンピューターからの、ある攻撃からビットコインを守ることもできます。"
 
 #: src/js/controllers/backup.js:76
@@ -1852,7 +1852,7 @@ msgid "No access key defined"
 msgstr "アクセスキーが定義されていません"
 
 #: www/views/onboarding/backupRequest.html:5
-msgid "No backup, no alarmx ."
+msgid "No backup, no alarmx."
 msgstr "バックアップは非常に重要です！"
 
 #: www/views/addressbook.html:19
@@ -1954,7 +1954,7 @@ msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the
 msgstr "注意: このビットコインキャッシュウォレットがビットコインウォレットからの複製の場合、復元フレーズは一緒です。"
 
 #: www/views/modals/wallets.html:25
-msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx "
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell alarmx"
 msgstr "注意： ビットコインの売却は 1-of-1 (単一署名) のウォレットからしか行えません。"
 
 #: www/views/preferencesNotifications.html:3
@@ -2769,7 +2769,7 @@ msgid "Spending this balance will need significant Alarmx network fees"
 msgstr "この入力の組み合わせを送金するために膨大なビットコインネットワーク手数料を必要とします"
 
 #: www/views/tab-send.html:33
-msgid "Start sending alarmx "
+msgid "Start sending alarmx"
 msgstr "ビットコインの送金を始めましょう"
 
 #: www/views/lockSetup.html:3
@@ -2807,7 +2807,7 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "＊＊＊注意＊＊＊ このアクションを元に戻すことはできません！！！"
 
 #: www/views/onboarding/welcome.html:5
-msgid "Take control of your money,<br>get started with alarmx ."
+msgid "Take control of your money,<br>get started with alarmx."
 msgstr "お金のコントロールを取り戻そう、<br>ビットコインをはじめよう"
 
 #: www/views/walletDetails.html:132
@@ -3008,7 +3008,7 @@ msgid "To get started, buy alarmx or share your address. You can receive alarmx 
 msgstr "はじめるには、ビットコインを購入したり、アドレスを他の人に共有したりしましょう。どのビットコインウォレットやサービスから受け取れます。"
 
 #: www/views/tab-send.html:38
-msgid "To get started, you'll need to create a alarmx wallet and get some alarmx ."
+msgid "To get started, you'll need to create a alarmx wallet and get some alarmx."
 msgstr "はじめに、ビットコインウォレットを作成し、ビットコインを入手する必要があります。"
 
 #: src/js/services/bitpayAccountService.js:73
@@ -3483,7 +3483,7 @@ msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
 msgstr "米ドル、ユーロ、ポンドなど他の通貨との取引ができます。"
 
 #: www/views/onboarding/tour.html:46
-msgid "You control your alarmx ."
+msgid "You control your alarmx."
 msgstr "ビットコインの自己管理"
 
 #: www/views/modals/chooseFeeLevel.html:64

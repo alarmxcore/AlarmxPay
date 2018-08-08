@@ -7,7 +7,7 @@ angular.module('copayApp.controllers').controller('completeController', function
   });
 
   var defaults = configService.getDefaults();
-  var downloadUrl = defaults.download.alarmx .url;
+  var downloadUrl = defaults.download.alarmx.url;
 
   function quickFeedback(cb) {
     window.plugins.spinnerDialog.show();
